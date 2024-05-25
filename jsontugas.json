@@ -1,0 +1,64 @@
+{
+    "result": [
+    {
+      "no": "1",
+      "name": "Commander Shepard",
+      "birth_date": "2154-04-11",
+      "Occupation": "Soldier",
+      "Gender": "Male",
+      "Species": "Human",
+      "Spaceship":"Normandy",
+      "Skill":"Shooting guns",	
+      "Game":"Mass Effect",
+      "Poster": "https://imgur.com/7hDXuGV"
+    },
+    {
+      "no": "2",
+      "name": "Garrus Vakarian",
+      "birth_date": "2144-07-21",	
+      "Occupation": "Soldier",
+      "Gender": "Male",
+      "Species": "Turian",
+      "Spaceship":"Normandy",
+      "Skill":"calibrating guns",	
+      "Game":"Mass Effect",
+      "Poster": "https://imgur.com/VlNYcGH"
+    },
+    {
+      "no": "3",
+      "name": "Tali'Zorah nar Rayya",
+      "birth_date": "2156-07-10",
+      "Occupation": "Tech Specialist",
+      "Gender": "Female",
+      "Species": "Quarian",
+      "Spaceship":"Normandy",
+      "Skill":"Hacking",	
+      "Game":"Mass Effect",
+      "Poster": "https://imgur.com/KGrqFSM"
+    },
+    {
+      "no": "4",
+      "name": "Liara T'Soni",
+      "birth_date": "2156-07-10",
+      "Occupation": "Information Broker",
+      "Gender": "Female",
+      "Species": "Asari",
+      "Spaceship":"Normandy",
+      "Skill":"Eavedropping",	
+      "Game":"Mass Effect",
+      "Poster": "https://imgur.com/KwvReQ2"
+    },
+    {
+      "no": "5",
+      "name": "Urdnot Wrex",
+      "birth_date": "15th century",
+      "Occupation": "Clan Leader",
+      "Gender": "Male",
+      "Species": "Krogan",
+      "Spaceship":"Normandy",
+      "Skill":"Martial Arts",	
+      "Game":"Mass Effect",
+      "Poster": "https://imgur.com/FaYwqwv"
+    },
+   ]
+  }
